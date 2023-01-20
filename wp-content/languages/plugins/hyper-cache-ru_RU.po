@@ -1,0 +1,432 @@
+# Translation of Plugins - Hyper Cache - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Hyper Cache - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-29 19:35:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Hyper Cache - Stable (latest release)\n"
+
+#: options.php:274
+msgid "Compute the cache size"
+msgstr "Вычесление размера КЕШа"
+
+#: options.php:280
+msgid "Bypasses"
+msgstr "Исключения"
+
+#: options.php:281
+msgid "Mobile"
+msgstr "Мобильный"
+
+#: options.php:283
+msgid "CDN"
+msgstr "CDN"
+
+#: options.php:318
+msgid "Cached pages will be valid for"
+msgstr "Кэшированные страницы, будут действительны в течение"
+
+#: options.php:321
+msgid "0 means forever."
+msgstr "0 означает, что навсегда."
+
+#: options.php:325
+msgid "Enable compression"
+msgstr "Включить сжатие"
+
+#: options.php:539
+msgid "When the home is refreshed, refresh even the"
+msgstr "Когда обновлена домашняя страница, обновятся остальные."
+
+#: options.php:541
+msgid "latest post"
+msgstr "последние записи"
+
+#: options.php:543
+msgid "The number of latest posts to invalidate when the home is invalidated."
+msgstr "Число последних записей, изменятся, когда изменена главная."
+
+#: options.php:527
+msgid "When a post receives a comment"
+msgstr "При написании комментария"
+
+#: options.php:339
+msgid "When a post is edited"
+msgstr "Когда записи отредактированы"
+
+#: options.php:562
+msgid "Cache folder"
+msgstr "Папка кэша"
+
+#: options.php:549
+msgid "Next autoclean will run in"
+msgstr "Далее эта функция будет выполняться через"
+
+#: options.php:553
+msgid "minutes"
+msgstr "минуты"
+
+#: options.php:556
+msgid "If you enable the \"serve expired pages to bots\", you should disable the auto clean."
+msgstr "Если Вы допускаете \"выдачу страниц поисковым ботам с истиченным сроком существования\", Вы должны отключить автоочистку."
+
+#: options.php:320
+msgid "hours"
+msgstr "часов"
+
+#: options.php:368
+msgid "HTTPS"
+msgstr "HTTPS"
+
+#: options.php:370 options.php:582
+msgid "Bypass the cache"
+msgstr "Не кэшировать страницу"
+
+#: options.php:372
+msgid "Use the standard cache (I have HTTP/HTTPS aware pages)"
+msgstr "Используйте стандартный кэш (я имею HTTP/HTTP, страницы), "
+
+#: options.php:381
+msgid "Serve expired pages to bots"
+msgstr "Служит ботам со страницами с закончевшимся сроком действия"
+
+#: options.php:385
+msgid "Serve a cache page even if expired when requested by bots."
+msgstr "Служит странице кэша, даже если истек когда требуется ботами."
+
+#: options.php:396
+msgid "Do not cache the home page"
+msgstr "Не кэшируйте домашнюю страницу"
+
+#: options.php:400
+msgid "When active, the home page and its subpages are not cached."
+msgstr "Когда активно, домашняя страница и его подстраницы не кэшируются."
+
+#: options.php:401
+msgid "Works even with a static home page."
+msgstr "Работы даже со статической домашней страницей."
+
+#: options.php:406
+msgid "Do not cache the \"404 - Not found\" page"
+msgstr "Не кэшировать \"стр.404\" "
+
+#: options.php:417
+msgid "Do not cache the blog main feeds"
+msgstr "Не кешировать ленту комментариев"
+
+#: options.php:421
+msgid "When active, the main blog feed %s is not cached."
+msgstr "Когда активно, главная лента новостей RSS не кэшируется"
+
+#: options.php:427
+msgid "Do not cache single post comment feed"
+msgstr "Не кешировать ленту RSS комментариев"
+
+#: options.php:292 options.php:356 options.php:383 options.php:439
+#: options.php:452 options.php:466 options.php:477 options.php:489
+msgid "Enable"
+msgstr "Включить"
+
+#: options.php:442 options.php:455 options.php:469 options.php:480
+#: options.php:612
+msgid "One per line."
+msgstr "По одному в линию."
+
+#: options.php:470
+msgid "If the visitor has a cookie named as one of the listed values, the cache is bypassed."
+msgstr "Если указанная строка совпадает с одним из имен Cookies, кэш исключается."
+
+#: options.php:503
+msgid "days"
+msgstr "дней"
+
+#: options.php:591
+msgid "Mobile theme"
+msgstr "Мобильная тема"
+
+#: options.php:596
+msgid "Use the active blog theme"
+msgstr "Использование активной темы сайта"
+
+#: options.php:586
+msgid "See for example my <a href=\"http://www.satollo.net/plugins/header-footer\" target=\"_blank\">Header and Footer</a> plugin for different desktop/mobile ads injection in posts."
+msgstr "Смотрите пример использования <a href=\"http://www.satollo.net/plugins/header-footer\" target=\"_blank\">Header и Footer</a> расширений для различных устройств."
+
+#: options.php:610
+msgid "Reset"
+msgstr "Сброс"
+
+#: options.php:624
+msgid "Save"
+msgstr "Сохранить"
+
+#: options.php:71
+msgid "Options saved. If you changed any of the bypasses empty the cache."
+msgstr "Настройки сохранены. Если вы изменяете страницы, то изменяютя и страницы в кеше"
+
+#: options.php:77
+msgid "Unable to write the <code>wp-content/advanced-cache.php</code> file. Check the file or folder permissions."
+msgstr "Не удается создать файл <code>wp-content/advanced-cache.php</code> файл. Проверьте разрешение для создание папок и файлов."
+
+#: options.php:85
+msgid "The cache folder has been cleaned."
+msgstr "Кэш папка была очищена."
+
+#: options.php:90
+msgid "Done!"
+msgstr "Отлично!"
+
+#: options.php:127
+msgid "Options deleted"
+msgstr "Настройки сброшены"
+
+#: options.php:132
+msgid "Cache size"
+msgstr "Размер КЭШа"
+
+#: options.php:222
+msgid "You must save the options since some files must be updated."
+msgstr "Вы должны сохранить настройки, так как файлы должны быть обновлены."
+
+#: options.php:272
+msgid "Clean the whole cache"
+msgstr "Удалить весь кеш"
+
+#: options.php:273
+msgid "Clean home and archives"
+msgstr "Очистка архивов и домашней"
+
+#: options.php:214
+msgid "You must add to the file wp-config.php (after the <code>&lt;?php</code> first line) the line of code: <code>define(\"WP_CACHE\", true);</code>"
+msgstr "Вы должны добавить в файл wp-config.php (после первой строки <code>&lt;?php</code>) код: <code>define(\"WP_CACHE\", true);</code>."
+
+#: options.php:331
+msgid "If your server has mod_pagespeed, leave the compression disabled otherwise the module cannot optimize the page."
+msgstr "Отключите сжатие, если на вашем сервере установлен mod_pagespeed, иначе модуль не сможет оптимизировать страницу."
+
+#. Author URI of the plugin
+msgid "https://www.satollo.net"
+msgstr "http://www.satollo.net"
+
+#. Author of the plugin
+msgid "Stefano Lissa"
+msgstr "Stefano Lissa"
+
+#. Description of the plugin
+msgid "A easy to configure and efficient cache to increase the speed of your blog."
+msgstr "Легкий в настройке плагин, обеспечивающий эффективное кеширование для увеличения скорости загрузки вашего блога."
+
+#. Plugin URI of the plugin
+msgid "https://www.satollo.net/plugins/hyper-cache"
+msgstr "http://www.satollo.net/plugins/hyper-cache"
+
+#. Plugin Name of the plugin
+msgid "Hyper Cache"
+msgstr "Hyper Cache"
+
+#: options.php:614
+msgid "For example and iPhone has <code>iphone</code> as user agent."
+msgstr "Пример: iPhone имеет User Agent <code>iphone</code>. "
+
+#: options.php:613
+msgid "A \"user agent\" is a text which identify the kind of device used to surf the site."
+msgstr "«User Agent» — это текст, идентифицирующий тип устройства, которое используется для просмотра сайта."
+
+#: options.php:607
+msgid "Mobile user agents"
+msgstr "User Agents браузеров мобильных устройств"
+
+#: options.php:602
+msgid "If you have plugins which produce different content for desktop and mobile devices, you should use a separate cache for mobile."
+msgstr "Если у вас есть плагины, генерирующие различное содержание для настольных и мобильных устройств, следует использовать отдельный кэш для мобильных устройств."
+
+#: options.php:506
+msgid "Useful when older posts have low traffic."
+msgstr "Полезно для малопосещаемых записей."
+
+#: options.php:505
+msgid "Older posts won't be cached and stored resulting in a lower disk space usage."
+msgstr "Старые записи не будут кешированы для экономии дискового пространства."
+
+#: options.php:496
+msgid "If you have few readers who comment you can disable this feature to get back the classical WordPress comment flow."
+msgstr "Если на сайте комментарии появляются нечасто, можно отключить эту функцию, вернув классическую обработку комментариев WordPress."
+
+#: options.php:495
+msgid "But the \"awaiting moderation\" message cannot be shown."
+msgstr "Но сообщение «ожидается модерация» не сможет отображаться."
+
+#: options.php:494
+msgid "(with a small JavaScript added at the end of the pages)."
+msgstr "(используя небольшой скрипт JavaScript, размещённый в конце страницы)."
+
+#: options.php:492
+msgid ""
+"Hyper Cache is able to work with users who left a comment and completes the comment form with\n"
+"                                user data even on cached page"
+msgstr "Hyper Cache может работать с пользователями, которые оставили комментарий, и заполняет форму комментария с пользовательскими данными даже на кэшированной странице."
+
+#: options.php:481
+msgid "If the visitor has a device with a user agent named as one of the listed values, the cache is bypassed."
+msgstr "Если браузер пользователя имеет в строке данное выражение, то кеширования страницы не произойдет."
+
+#: options.php:459
+msgid "A request for <code>http://youblog.com<strong>/my-single-post-something</strong></code> IS NOT cached as well."
+msgstr "Запрос for <code>http://youblog.com<strong>/my-single-post-something</strong></code> НЕ кешируется."
+
+#: options.php:456
+msgid "Those URIs match if a requested URI starts with one of them."
+msgstr "Эти URI совпадают, если запрошенный URI начинается с одного из них."
+
+#: options.php:445
+msgid "A request for <code>http://youblog.com<strong>/my-single-post-something</strong></code> IS cached."
+msgstr "Запрос for <code>http://youblog.com<strong>/my-single-post-something</strong></code> кешируется"
+
+#: options.php:444 options.php:457
+msgid "For example if you add the <code>/my-single-post</code> URI and a request is received for <code>http://youblog.com<strong>/my-single-post</strong></code> that page IS NOT cached."
+msgstr "Например, если вы добавите <code>/my-single-post</code> URI и запрос получен для <code>http://youblog.com<strong>/my-single-post</strong></code> эта страница НЕ кешируется."
+
+#: options.php:432
+msgid "Usually I enable this bypass since it saves disk space and comment feed on single posts are not usually used."
+msgstr "Обычно я включаю этот обход, так как он экономит дисковое пространство, и лента комментариев к отдельным сообщениям обычно не используется."
+
+#: options.php:431
+msgid "When active, the single post comment feeds are not cached."
+msgstr "Когда включено, поля комментария на страницах одиночных записей не кешируются."
+
+#: options.php:412
+msgid "Caching it help in reduce that overload."
+msgstr "Кэширование помогает уменьшить перегрузку."
+
+#: options.php:411
+msgid "Requests which lead to a 404 not found page overload you blog since WordPress must generate a full page"
+msgstr "Запросы, которые приводят к тому, что страница 404 not found перегружают ваш блог, так как WordPress должен генерировать полную страницу"
+
+#: options.php:410
+msgid "When active, Hyper Cache does not serve a cached \"404 not found\" page."
+msgstr "При включенной опции страница ошибки \"404\" не будет кешироваться."
+
+#: options.php:374
+msgid "Pages are usually different when served in HTTP and HTTPS."
+msgstr "Страницы, как правило, отличаются при использовании в HTTP и HTTPS."
+
+#: options.php:361
+msgid "Attention: the browser may not reload a page from the blog showing not updated content. "
+msgstr "Внимание, если страница была изменена, то посетитель не сможет увидеть новый контент в течение указанного в данном поле времени!"
+
+#: options.php:360
+msgid "Lets browser to use a local copy of the page if newer than specified."
+msgstr "Дать возможность браузеру посетителя сохранять файлы сайта на его устройстве."
+
+#: options.php:354
+msgid "Allow browser caching"
+msgstr "Разрешить кеширование браузерами"
+
+#: options.php:555
+msgid "The autoclean process removes old files to save disk space."
+msgstr "Автоочистка удаляет устаревшие файлы для оптимизации дискового пространства."
+
+#: options.php:553
+msgid "will run again in"
+msgstr "запустится снова через"
+
+#: options.php:516
+msgid "Enable on-the-fly compression"
+msgstr "Разрешить сжатие \"на лету\""
+
+#: options.php:303
+msgid "You should usually create a pull zone in your CDN panel and they will give your an URL."
+msgstr "Обычно вы должны создать зону извлечения на панели CDN, и они дадут вам URL."
+
+#: options.php:300
+msgid "Write here the CDN URL."
+msgstr "Впишите в это поле URL CDN"
+
+#: options.php:287
+msgid "It works only with images, css, scripts."
+msgstr "Эта функция работает только с изображениями, CSS и JavaScript."
+
+#: options.php:245
+msgid "Change it on the <a href=\"options-permalink.php\" target=\"_blank\">permalink panel</a> otherwise Hyper Cache cannot work properly."
+msgstr "Измените это на <a href=\"options-permalink.php\" target=\"_blank\">permalink panel</a> в противном случае Hyper Cache не может работать должным образом."
+
+#: options.php:244
+msgid "You should choose a different permalink structure."
+msgstr "Вы должны выбрать другую структуру постоянных ссылок."
+
+#: options.php:233
+msgid "Please create it manually with list, write and read permissions (usually 777)."
+msgstr "Пожалуйста, создайте его вручную со списком, правами на запись и чтение (обычно 777)."
+
+#: options.php:231
+msgid "Hyper Cache was not able to create or find the %s folder."
+msgstr "Hyper Cache не смог создать или найти папку %s."
+
+#: options.php:567
+msgid "A custom cache folder can be defined in wp-config.php"
+msgstr "Пользовательская папка кэша может быть определена в wp-config.php"
+
+#: options.php:565
+msgid "A custom cache folder is deinfed in wp-config.php"
+msgstr "Пользовательская папка кеша определяется в wp-config.php"
+
+#: options.php:282
+msgid "Advanced"
+msgstr "Расширенные"
+
+#: options.php:371
+msgid "Build a separated cache"
+msgstr "Построение разделенного кэша"
+
+#: options.php:521
+msgid "Enable on the fly compression for non cached pages."
+msgstr "Включите сжатие \"на лету\" для некэшированных страниц."
+
+#: options.php:437
+msgid "Do not cache pages with URIs"
+msgstr "Не кэшировать страницы с URI"
+
+#: options.php:450
+msgid "Do not cache pages with URIs starting with"
+msgstr "Не кэшируйте страницы с URI, начинающимися на"
+
+#: options.php:501
+msgid "Do not cache posts older than"
+msgstr "Не кэшировать записи старше"
+
+#: options.php:301
+msgid "For example a MaxCDN URL is something like"
+msgstr "Например, URL-адрес MaxCDN выглядит следующим образом"
+
+#: options.php:578
+msgid "For mobile devices"
+msgstr "Для мобильных устройств"
+
+#: options.php:279
+msgid "General"
+msgstr "Основные"
+
+#: options.php:330
+msgid "If you note odd characters when enabled, disable it since your server is already compressing the pages."
+msgstr "Если вы заметили странные символы при включенной функции, отключите ее, поскольку ваш сервер уже сжимает страницы."
+
+#: options.php:443
+msgid "Those URIs are exactly matched."
+msgstr "Эти URI точно совпадают."
+
+#: options.php:581
+msgid "Use a separated cache"
+msgstr "Используйте разделенный кэш"
+
+#: options.php:580
+msgid "Use the main cache"
+msgstr "Используйте основной кэш"
+
+#: options.php:585
+msgid "Choose \"cache separately\" if you produce different content for mobile devices"
+msgstr "Выберите \"кэшировать отдельно\", если вы создаете разный контент для мобильных устройств"

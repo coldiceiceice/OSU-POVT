@@ -1,0 +1,28 @@
+2023-01-13T17:18:47+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "�" in C:\OSPanel\domains\osu.povt\wp-content\plugins\login-customizer\freemius\templates\forms\deactivation\retry-skip.php:23
+Stack trace:
+#0 C:\OSPanel\domains\osu.povt\wp-content\plugins\login-customizer\freemius\templates\forms\deactivation\retry-skip.php(23): sprintf()
+#1 C:\OSPanel\domains\osu.povt\wp-content\plugins\login-customizer\freemius\includes\fs-core-functions.php(57): require('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\osu.povt\wp-content\plugins\login-customizer\freemius\includes\class-freemius.php(2619): fs_get_template()
+#3 C:\OSPanel\domains\osu.povt\wp-content\plugins\login-customizer\freemius\includes\class-freemius.php(2498): Freemius->_get_uninstall_reasons()
+#4 C:\OSPanel\domains\osu.povt\wp-includes\class-wp-hook.php(308): Freemius->_add_deactivation_feedback_dialog_box()
+#5 C:\OSPanel\domains\osu.povt\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\osu.povt\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\osu.povt\wp-admin\admin-footer.php(78): do_action()
+#8 C:\OSPanel\domains\osu.povt\wp-admin\plugins.php(784): require_once('C:\\OSPanel\\doma...')
+#9 {main}
+  thrown в C:\OSPanel\domains\osu.povt\wp-content\plugins\login-customizer\freemius\templates\forms\deactivation\retry-skip.php на строке 23
+
+2023-01-13T17:18:56+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "�" in C:\OSPanel\domains\osu.povt\wp-content\plugins\login-customizer\freemius\templates\forms\deactivation\retry-skip.php:23
+Stack trace:
+#0 C:\OSPanel\domains\osu.povt\wp-content\plugins\login-customizer\freemius\templates\forms\deactivation\retry-skip.php(23): sprintf()
+#1 C:\OSPanel\domains\osu.povt\wp-content\plugins\login-customizer\freemius\includes\fs-core-functions.php(57): require('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\osu.povt\wp-content\plugins\login-customizer\freemius\includes\class-freemius.php(2619): fs_get_template()
+#3 C:\OSPanel\domains\osu.povt\wp-content\plugins\login-customizer\freemius\includes\class-freemius.php(2498): Freemius->_get_uninstall_reasons()
+#4 C:\OSPanel\domains\osu.povt\wp-includes\class-wp-hook.php(308): Freemius->_add_deactivation_feedback_dialog_box()
+#5 C:\OSPanel\domains\osu.povt\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\osu.povt\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\osu.povt\wp-admin\admin-footer.php(78): do_action()
+#8 C:\OSPanel\domains\osu.povt\wp-admin\plugins.php(784): require_once('C:\\OSPanel\\doma...')
+#9 {main}
+  thrown в C:\OSPanel\domains\osu.povt\wp-content\plugins\login-customizer\freemius\templates\forms\deactivation\retry-skip.php на строке 23
+
