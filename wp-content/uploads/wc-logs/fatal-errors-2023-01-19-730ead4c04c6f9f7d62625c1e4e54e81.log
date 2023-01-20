@@ -1,0 +1,70 @@
+2023-01-19T11:52:41+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "�" in C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\templates\forms\deactivation\retry-skip.php:23
+Stack trace:
+#0 C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\templates\forms\deactivation\retry-skip.php(23): sprintf()
+#1 C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\includes\fs-core-functions.php(57): require('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\includes\class-freemius.php(2619): fs_get_template()
+#3 C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\includes\class-freemius.php(2498): Freemius->_get_uninstall_reasons()
+#4 C:\OSPanel\domains\osu.povt\wp-includes\class-wp-hook.php(308): Freemius->_add_deactivation_feedback_dialog_box()
+#5 C:\OSPanel\domains\osu.povt\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\osu.povt\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\osu.povt\wp-admin\admin-footer.php(78): do_action()
+#8 C:\OSPanel\domains\osu.povt\wp-admin\plugins.php(784): require_once('C:\\OSPanel\\doma...')
+#9 {main}
+  thrown в C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\templates\forms\deactivation\retry-skip.php на строке 23
+
+2023-01-19T12:52:34+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "�" in C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\templates\forms\deactivation\retry-skip.php:23
+Stack trace:
+#0 C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\templates\forms\deactivation\retry-skip.php(23): sprintf()
+#1 C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\includes\fs-core-functions.php(57): require('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\includes\class-freemius.php(2619): fs_get_template()
+#3 C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\includes\class-freemius.php(2498): Freemius->_get_uninstall_reasons()
+#4 C:\OSPanel\domains\osu.povt\wp-includes\class-wp-hook.php(308): Freemius->_add_deactivation_feedback_dialog_box()
+#5 C:\OSPanel\domains\osu.povt\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\osu.povt\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\osu.povt\wp-admin\admin-footer.php(78): do_action()
+#8 C:\OSPanel\domains\osu.povt\wp-admin\plugins.php(784): require_once('C:\\OSPanel\\doma...')
+#9 {main}
+  thrown в C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\templates\forms\deactivation\retry-skip.php на строке 23
+
+2023-01-19T12:53:07+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "�" in C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\templates\forms\deactivation\retry-skip.php:23
+Stack trace:
+#0 C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\templates\forms\deactivation\retry-skip.php(23): sprintf()
+#1 C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\includes\fs-core-functions.php(57): require('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\includes\class-freemius.php(2619): fs_get_template()
+#3 C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\includes\class-freemius.php(2498): Freemius->_get_uninstall_reasons()
+#4 C:\OSPanel\domains\osu.povt\wp-includes\class-wp-hook.php(308): Freemius->_add_deactivation_feedback_dialog_box()
+#5 C:\OSPanel\domains\osu.povt\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\osu.povt\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\osu.povt\wp-admin\admin-footer.php(78): do_action()
+#8 C:\OSPanel\domains\osu.povt\wp-admin\plugins.php(784): require_once('C:\\OSPanel\\doma...')
+#9 {main}
+  thrown в C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\templates\forms\deactivation\retry-skip.php на строке 23
+
+2023-01-19T16:57:28+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "�" in C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\templates\forms\deactivation\retry-skip.php:23
+Stack trace:
+#0 C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\templates\forms\deactivation\retry-skip.php(23): sprintf()
+#1 C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\includes\fs-core-functions.php(57): require('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\includes\class-freemius.php(2619): fs_get_template()
+#3 C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\includes\class-freemius.php(2498): Freemius->_get_uninstall_reasons()
+#4 C:\OSPanel\domains\osu.povt\wp-includes\class-wp-hook.php(308): Freemius->_add_deactivation_feedback_dialog_box()
+#5 C:\OSPanel\domains\osu.povt\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\osu.povt\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\osu.povt\wp-admin\admin-footer.php(78): do_action()
+#8 C:\OSPanel\domains\osu.povt\wp-admin\plugins.php(784): require_once('C:\\OSPanel\\doma...')
+#9 {main}
+  thrown в C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\templates\forms\deactivation\retry-skip.php на строке 23
+
+2023-01-19T16:58:23+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "�" in C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\templates\forms\deactivation\retry-skip.php:23
+Stack trace:
+#0 C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\templates\forms\deactivation\retry-skip.php(23): sprintf()
+#1 C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\includes\fs-core-functions.php(57): require('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\includes\class-freemius.php(2619): fs_get_template()
+#3 C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\includes\class-freemius.php(2498): Freemius->_get_uninstall_reasons()
+#4 C:\OSPanel\domains\osu.povt\wp-includes\class-wp-hook.php(308): Freemius->_add_deactivation_feedback_dialog_box()
+#5 C:\OSPanel\domains\osu.povt\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#6 C:\OSPanel\domains\osu.povt\wp-includes\plugin.php(517): WP_Hook->do_action()
+#7 C:\OSPanel\domains\osu.povt\wp-admin\admin-footer.php(78): do_action()
+#8 C:\OSPanel\domains\osu.povt\wp-admin\plugins.php(784): require_once('C:\\OSPanel\\doma...')
+#9 {main}
+  thrown в C:\OSPanel\domains\osu.povt\wp-content\plugins\the-events-calendar\common\vendor\freemius\templates\forms\deactivation\retry-skip.php на строке 23
+

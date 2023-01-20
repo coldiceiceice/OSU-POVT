@@ -1,0 +1,573 @@
+# Translation of Plugins - Custom Login Page Customizer - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Custom Login Page Customizer - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-02-14 20:47:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Custom Login Page Customizer - Stable (latest release)\n"
+
+#: src/Settings/Setup.php:224
+msgid "Delete All Settings"
+msgstr "Удалить все настройки"
+
+#: src/Settings/Setup.php:225
+msgid "Enable this option to delete every settings of this plugin on uninstall"
+msgstr "Включите этот параметр, чтобы удалить все настройки этого плагина при удалении."
+
+#: src/Customizer/Panel/Sections/Logo.php:214
+msgid "Login page title that is shown on WordPress login page."
+msgstr "Заголовок страницы входа, который отображается на странице входа в WordPress."
+
+#: src/Customizer/Panel/Sections/Other.php:104
+msgid "Disable Privacy policy?"
+msgstr "Отключить политику конфиденциальности?"
+
+#: src/Customizer/Panel/Sections/Logo.php:213
+msgid "Login Page title"
+msgstr "Заголовок страницы входа"
+
+#: src/Includes/Notification.php:129
+msgid "Leave A Review?"
+msgstr "Оставить отзыв?"
+
+#: src/Includes/Notification.php:133
+msgid "Sure! I'd love to!"
+msgstr "Конечно, Мне нравится!"
+
+#: src/Includes/Notification.php:138
+msgid "I've already left a review"
+msgstr "Я уже оставил отзыв"
+
+#: src/Includes/Notification.php:144
+msgid "Maybe Later"
+msgstr "Может быть позже"
+
+#: src/Includes/Notification.php:150
+msgid "Never show again"
+msgstr "Никогда больше не показывать"
+
+#: src/Customizer/Panel/Sections/Logo.php:32
+#: src/Customizer/Panel/Sections/Logo.php:76
+msgid "Logo"
+msgstr "Логотип"
+
+#: src/Customizer/Panel/Sections/Background.php:33
+#: src/Customizer/Panel/Sections/Button.php:57
+#: src/Customizer/Panel/Sections/Fields.php:302
+msgid "Background"
+msgstr "Фон"
+
+#: src/Includes/Plugin_Meta.php:78
+msgid "Vote!"
+msgstr "Голосовать!"
+
+#: src/Settings/Setup.php:72
+msgid "Customizer"
+msgstr "Настройщик"
+
+#: src/Settings/API.php:398
+msgid "Choose File"
+msgstr "Выберите файл"
+
+#: src/Settings/Setup.php:70 src/Settings/Setup.php:148
+msgid "Settings"
+msgstr "Настройки"
+
+#: src/Settings/API.php:558
+msgid "Plugin Support"
+msgstr "Поддержка плагина"
+
+#: src/Settings/API.php:561
+msgid "Got a Question, Idea, Problem or Praise?"
+msgstr "Есть вопрос, идея, проблема или благодарность?"
+
+#: src/Settings/API.php:563
+msgid "Support Request"
+msgstr "Запрос поддержки"
+
+#: src/Includes/Disband.php:149
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "Если у вас есть возможность, укажите причину удаления:"
+
+#: src/Includes/Disband.php:166
+msgid "I only needed the plugin for a short period"
+msgstr "Плагин мне нужен на небольшое время"
+
+#: src/Includes/Disband.php:175
+msgid "I found a better plugin"
+msgstr "Я нашел плагин лучше"
+
+#: src/Includes/Disband.php:185
+msgid "The plugin broke my site"
+msgstr "Плагин сломал мой сайт"
+
+#: src/Includes/Disband.php:194
+msgid "The plugin suddenly stopped working"
+msgstr "Плагин внезапно перестал работать"
+
+#: src/Includes/Disband.php:203
+msgid "I no longer need the plugin"
+msgstr "Плагин мне более не нужен"
+
+#: src/Includes/Disband.php:212
+msgid "It's a temporary deactivation. I'm just debugging an issue."
+msgstr "Это временная деактивация. Я анализирую проблему."
+
+#: src/Customizer/Panel/Sections/Other.php:32 src/Includes/Disband.php:221
+msgid "Other"
+msgstr "Другое"
+
+#: src/Includes/Disband.php:224
+msgid "Kindly tell us the reason so we can improve."
+msgstr "Пожалуйста, сообщите нам причину, чтобы мы смогли внести улучшения."
+
+#: src/Includes/Disband.php:229
+msgid "Anonymous feedback"
+msgstr "Анонимный отзыв"
+
+#: src/Includes/Disband.php:234
+msgid "Cancel"
+msgstr "Отмена"
+
+#: src/Includes/Disband.php:178
+msgid "Kindly tell us the Plugin name."
+msgstr "Пожалуйста, скажите какой плагин вам понравился."
+
+#: src/Includes/Disband.php:230
+msgid "Skip & Deactivate"
+msgstr "Пропустить и деактивировать"
+
+#: src/Includes/Disband.php:233
+msgid "Submit & Deactivate"
+msgstr "Отправить и деактивировать"
+
+#: src/Settings/Features/Login_Order.php:130
+msgid "%1$sError:%2$s Invalid Username."
+msgstr "%1$sОшибка:%2$s Неверное имя пользователя."
+
+#: src/Settings/Features/Login_Order.php:84
+msgid "%1$sError:%2$s The username field is empty."
+msgstr "%1$sОшибка:%2$s Поле \"Имя пользователя\" не заполнено."
+
+#: src/Settings/Features/Login_Order.php:86
+msgid "%1$sError:%2$s The password field is empty."
+msgstr "%1$sFout:%2$s Поле пароля пусто."
+
+#: src/Settings/Features/Login_Order.php:107
+msgid "%1$sError:%2$s Invalid Email Address"
+msgstr "%1$sОшибка:%2$s Неверный email-адрес"
+
+#: src/Settings/Setup.php:74
+msgid "Help"
+msgstr "Помощь"
+
+#: src/Settings/Setup.php:324
+msgid "Free plugin support is available on the %1$s plugin support forums%2$s."
+msgstr "Бесплатная поддержка доступна на %1$s форуме поддержки плагинов%2$s."
+
+#: src/Customizer/template-login-customizer.php:91
+#: src/Settings/Features/Custom_Register_Password.php:53
+msgid "Password"
+msgstr "Пароль"
+
+#: src/Settings/Features/Custom_Register_Password.php:57
+msgid "Confirm Password"
+msgstr "Подтвердите пароль"
+
+#: src/Settings/Features/Custom_Register_Password.php:78
+msgid "<strong>ERROR</strong>: Please enter your password twice."
+msgstr "<strong>Ошибка</strong>: Введите ваш пароль дважды."
+
+#: src/Settings/Features/Custom_Register_Password.php:82
+msgid "<strong>ERROR</strong>: Please enter the same password in the end password fields."
+msgstr "<strong>Ошибка</strong>: Введите такой же пароль в последнее поле пароля."
+
+#: src/Settings/Setup.php:286
+msgid "Custom Password Fields"
+msgstr "Настраиваемые поля пароля"
+
+#: src/Settings/Setup.php:287
+msgid "Enable custom password fields on registration form."
+msgstr "Включить настраиваемый поля пароля в регистрационных формах."
+
+#: src/Settings/Setup.php:178
+msgid "Login Order"
+msgstr "Порядок входа"
+
+#: src/Customizer/Panel/Functions.php:156
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: src/Customizer/Panel/Functions.php:158
+msgid "Email Address"
+msgstr "Email-адрес"
+
+#: src/Customizer/Panel/Functions.php:160
+#: src/Customizer/template-login-customizer.php:87
+msgid "Username or Email Address"
+msgstr "Имя пользователя или email-адрес"
+
+#: src/Customizer/template-login-customizer.php:28
+msgid "%1$s &lsaquo; %2$s &#8212; WordPress"
+msgstr "%1$s &lsaquo; %2$s &#8212; WordPress"
+
+#: src/Customizer/template-login-customizer.php:53
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: src/Customizer/template-login-customizer.php:54
+msgid "Powered by WordPress"
+msgstr "На платформе WordPress"
+
+#. translators: %s: site title
+#: src/Customizer/template-login-customizer.php:115
+msgctxt "site"
+msgid "&larr; Back to %s"
+msgstr "&larr; Назад к %s"
+
+#: src/Customizer/template-login-customizer.php:103
+msgid "Register"
+msgstr "Регистрация"
+
+#: src/Customizer/template-login-customizer.php:109
+msgid "Lost your password?"
+msgstr "Забыли пароль?"
+
+#: src/Customizer/template-login-customizer.php:29
+#: src/Customizer/template-login-customizer.php:97
+msgid "Log In"
+msgstr "Вход"
+
+#: src/Customizer/template-login-customizer.php:95
+msgid "Remember Me"
+msgstr "Запомнить меня"
+
+#: src/Customizer/Panel/Sections/Background.php:73
+#: src/Customizer/Panel/Sections/Form.php:53
+msgid "Background Image"
+msgstr "Фоновой снимок"
+
+#: src/Customizer/Panel/Controls/Padding.php:44
+msgid "Left"
+msgstr "Слева"
+
+#: src/Customizer/Panel/Controls/Padding.php:38
+msgid "Right"
+msgstr "Справа"
+
+#: src/Includes/Plugin_Meta.php:81
+msgid "Rate"
+msgstr "Оценить"
+
+#: src/Settings/Setup.php:172
+msgid "Auto Remember Me"
+msgstr "Активируйте \"Оставаться в системе\" автоматически"
+
+#: src/Settings/Setup.php:173
+msgid "Keep remember me option always checked on login page"
+msgstr "Отмечать опцию Запомнить меня на странице входа"
+
+#: src/Settings/Features/Custom_Register_Password.php:135
+msgid "If you have already set your own password, you may disregard this email and use the password you have already set."
+msgstr "Если Вы уже установили свой пароль, можете использовать его и игнорировать это письмо."
+
+#: src/Settings/Setup.php:184
+msgid "Only Username"
+msgstr "Только имя пользователя"
+
+#: src/Settings/Setup.php:185
+msgid "Only Email Address"
+msgstr "Только email-адрес"
+
+#: src/Settings/Setup.php:183
+msgid "Both Username Or Email Address"
+msgstr "Имя пользователя или Email-адрес"
+
+#: src/Customizer/Panel/Sections/Button.php:209
+#: src/Customizer/Panel/Sections/Fields.php:110
+#: src/Customizer/Panel/Sections/Other.php:151
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: src/Customizer/Panel/Sections/Button.php:241
+#: src/Customizer/Panel/Sections/Fields.php:326
+#: src/Customizer/Panel/Sections/Other.php:183
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: src/Customizer/Panel/Sections/Code.php:70
+msgid "Custom JavaScript"
+msgstr "Пользовательский JavaScript"
+
+#: src/Customizer/Panel/Sections/Fields.php:33
+msgid "Fields"
+msgstr "Поля"
+
+#: src/Customizer/Panel/Sections/Button.php:145
+#: src/Customizer/Panel/Sections/Fields.php:78
+#: src/Customizer/Panel/Sections/Form.php:101
+msgid "Width"
+msgstr "Ширина"
+
+#: src/Customizer/Panel/Sections/Fields.php:198
+#: src/Customizer/Panel/Sections/Form.php:189
+msgid "Radius"
+msgstr "Радиус"
+
+#: src/Customizer/Panel/Sections/Fields.php:254
+msgid "Margin"
+msgstr "Внешний отступ"
+
+#: src/Customizer/Panel/Sections/Fields.php:350
+msgid "Label Color"
+msgstr "Цвет этикетки"
+
+#: src/Customizer/Panel/Sections/Button.php:36
+msgid "Button"
+msgstr "Кнопка"
+
+#: src/Customizer/Panel/Sections/Button.php:117
+msgid "Button Size"
+msgstr "Размер кнопки"
+
+#: src/Customizer/Panel/Sections/Button.php:177
+#: src/Customizer/Panel/Sections/Form.php:133
+msgid "Height"
+msgstr "Высота"
+
+#: src/Customizer/Panel/Sections/Button.php:425
+msgid "Text Shadow"
+msgstr "Тень текста"
+
+#: src/Customizer/Panel/Sections/Background.php:50
+#: src/Customizer/Panel/Sections/Form.php:77
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: src/Customizer/Panel/Sections/Background.php:94
+msgid "Background Size"
+msgstr "Размер фона"
+
+#: src/Customizer/Panel/Sections/Background.php:98
+msgid "Original"
+msgstr "Оригинал"
+
+#: src/Customizer/Panel/Sections/Background.php:99
+msgid "Fit to Screen"
+msgstr "По размеру экрана"
+
+#: src/Customizer/Panel/Sections/Background.php:141
+msgid "Background Repeat"
+msgstr "Повтор фона"
+
+#: src/Customizer/Panel/Sections/Background.php:145
+msgid "No Repeat"
+msgstr "Не повторять"
+
+#: src/Customizer/Panel/Sections/Background.php:146
+msgid "Repeat"
+msgstr "Повторение"
+
+#: src/Customizer/Panel/Sections/Background.php:147
+msgid "Repeat Horizontally"
+msgstr "Повторять по горизонтали"
+
+#: src/Customizer/Panel/Sections/Background.php:148
+msgid "Repeat Vertically"
+msgstr "Повторять по вертикали"
+
+#: src/Customizer/Panel/Sections/Background.php:183
+msgid "Background Position"
+msgstr "Позиция фона"
+
+#: src/Customizer/Panel/Sections/Templates.php:34
+#: src/Customizer/Panel/Sections/Templates.php:72
+msgid "Templates"
+msgstr "Шаблоны"
+
+#: src/Customizer/Panel/Sections/Form.php:33
+msgid "Form"
+msgstr "Форма"
+
+#: src/Customizer/Panel/Sections/Logo.php:100
+msgid "Logo Width"
+msgstr "Ширина логотипа"
+
+#: src/Customizer/Panel/Sections/Logo.php:164
+msgid "Padding Bottom"
+msgstr "Внутренний отступ снизу"
+
+#: src/Customizer/Panel/Sections/Logo.php:193
+msgid "Logo URL"
+msgstr "URL логотипа"
+
+#: src/Customizer/Panel/Controls/Range_Slider.php:67
+msgid "px"
+msgstr "px"
+
+#: src/Includes/Plugin_Meta.php:76
+msgid "Support"
+msgstr "Поддержка"
+
+#: src/Customizer/Panel/Sections/Other.php:207
+msgid "Text Color (Hover)"
+msgstr "Цвет текста при наведении"
+
+#: src/Customizer/Panel/Sections/Code.php:48
+msgid "Custom CSS"
+msgstr "Пользовательские CSS"
+
+#: src/Customizer/Panel/Sections/Button.php:289
+#: src/Customizer/Panel/Sections/Fields.php:142
+msgid "Border Width"
+msgstr "Ширина рамки"
+
+#: src/Customizer/Panel/Sections/Fields.php:174
+msgid "Border Color"
+msgstr "Цвет рамки"
+
+#: src/Customizer/Panel/Sections/Button.php:265
+#: src/Customizer/Panel/Sections/Fields.php:278
+#: src/Customizer/Panel/Sections/Form.php:165
+msgid "Padding"
+msgstr "Внутренний отступ"
+
+#: src/Customizer/Panel/Sections/Button.php:81
+msgid "Background (Hover)"
+msgstr "Фон при наведении"
+
+#: src/Customizer/Panel/Sections/Button.php:121
+msgid "Auto"
+msgstr "Авто"
+
+#: src/Customizer/Panel/Sections/Background.php:101
+#: src/Customizer/Panel/Sections/Button.php:122
+msgid "Custom"
+msgstr "Пользовательский"
+
+#: src/Customizer/Panel/Sections/Button.php:321
+msgid "Border"
+msgstr "Рамка"
+
+#: src/Customizer/Panel/Sections/Button.php:345
+msgid "Border (Hover)"
+msgstr "Рамка при наведении"
+
+#: src/Customizer/Panel/Sections/Background.php:121
+msgid "Custom Size"
+msgstr "Пользовательский размер"
+
+#: src/Customizer/Panel/Controls/Range_Slider.php:69
+msgid "%"
+msgstr "%"
+
+#. Author URI of the plugin
+msgid "https://loginpress.pro/?utm_source=login-customizer-lite&utm_medium=author-url-link"
+msgstr "https://loginpress.pro/?utm_source=login-customizer-lite&utm_medium=author-url-link"
+
+#: src/Customizer/Panel/Sections/Other.php:55
+msgid "Disable Register Link?"
+msgstr "Отключить ссылку для регистрации?"
+
+#: src/Customizer/Panel/Sections/Other.php:81
+msgid "Disable Lost Password?"
+msgstr "Отключить утерянный пароль?"
+
+#: src/Customizer/Panel/Sections/Other.php:127
+msgid "Disable \"Back to Website\"?"
+msgstr "Отключить \"Вернуться на сайт\"?"
+
+#: src/Customizer/Panel/Sections/Code.php:30
+msgid "Custom CSS & JavaScript"
+msgstr "Произвольный CSS и JavaScript"
+
+#: src/Customizer/Panel/Sections/Fields.php:54
+msgid "Disable Remember Me?"
+msgstr "Отключить Запомнить меня?"
+
+#: src/Customizer/Panel/Sections/Fields.php:230
+msgid "Disable Box Shadow?"
+msgstr "Отключить тень блока?"
+
+#: src/Customizer/Panel/Sections/Fields.php:374
+msgid "Label Font Size"
+msgstr "Размер шрифта этикетки"
+
+#: src/Customizer/Panel/Sections/Button.php:369
+#: src/Customizer/Panel/Sections/Form.php:221
+msgid "Shadow Spread"
+msgstr "Распространение теней"
+
+#: src/Includes/Plugin_Meta.php:111
+msgid " | %1$s Settings %2$s "
+msgstr " | %1$s Настройки %2$s "
+
+#: src/Customizer/Panel/Sections/Button.php:401
+#: src/Customizer/Panel/Sections/Form.php:253
+msgid "Box Shadow"
+msgstr "Тень блока"
+
+#: src/Customizer/Panel/Sections/Background.php:100
+msgid "Fill Screen"
+msgstr "Заполнить экран"
+
+#: src/Customizer/Panel/Sections/Logo.php:53
+msgid "Disable Logo?"
+msgstr "Отключить логотип?"
+
+#: src/Customizer/Panel/Sections/Logo.php:132
+msgid "Logo Height"
+msgstr "Высота логотипа"
+
+#: src/Customizer/Panel/Controls/Range_Slider.php:83
+msgid "Reset"
+msgstr "Сброс"
+
+#: src/Customizer/Panel/Controls/Padding.php:36
+msgid "Top"
+msgstr "Сверху"
+
+#: src/Customizer/Panel/Controls/Padding.php:42
+msgid "Down"
+msgstr "Вниз"
+
+#: src/Includes/Disband.php:157
+msgid "I upgraded to Login Customizer Pro"
+msgstr "Я обновился до Login Customizer Pro"
+
+#: src/Includes/Disband.php:159
+msgid "No need to deactivate this Login Customizer Core version. Pro version works as an add-on with Core version."
+msgstr "Нет необходимости деактивировать эту версию Login Customizer Core. Версия Pro работает как дополнение к версии Core."
+
+#: src/Includes/Disband.php:146
+msgid "Quick feedback about Login Customizer"
+msgstr "Быстрый отзыв о Login Customizer"
+
+#. Plugin URI of the plugin
+msgid "https://loginpress.pro/?utm_source=login-customizer-lite&utm_medium=plugin-url-link"
+msgstr "https://loginpress.pro/?utm_source=login-customizer-lite&utm_medium=plugin-url-link"
+
+#: src/Includes/Plugin_Meta.php:104
+msgid "%1$s Customize %2$s"
+msgstr "%1$s Настроить %2$s"
+
+#. Author of the plugin
+msgid "Hardeep Asrani"
+msgstr "Hardeep Asrani"
+
+#. Description of the plugin
+msgid "Custom Login Customizer plugin allows you to easily customize your login page straight from your WordPress Customizer! Awesome, right?"
+msgstr "Плагин Custom Login Customizer позволяет легко настроить страницу входа прямо из WordPress Customizer! Потрясающе, правда?"
+
+#: src/Settings/Setup.php:179
+msgid "Enable users to login using their username or email address."
+msgstr "Разрешить пользователям входить в систему, используя свое имя пользователя или адрес электронной почты."
+
+#: src/Customizer/Panel/Sections/Logo.php:194
+msgid "The page where your logo will take you."
+msgstr "Страница, на которую приведет ваш логотип."
